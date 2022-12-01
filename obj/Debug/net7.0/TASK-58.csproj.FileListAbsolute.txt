@@ -1,0 +1,15 @@
+D:\ST\хочу стать умней\TASK-58\TASK-58\bin\Debug\net7.0\TASK-58.exe
+D:\ST\хочу стать умней\TASK-58\TASK-58\bin\Debug\net7.0\TASK-58.deps.json
+D:\ST\хочу стать умней\TASK-58\TASK-58\bin\Debug\net7.0\TASK-58.runtimeconfig.json
+D:\ST\хочу стать умней\TASK-58\TASK-58\bin\Debug\net7.0\TASK-58.dll
+D:\ST\хочу стать умней\TASK-58\TASK-58\bin\Debug\net7.0\TASK-58.pdb
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.csproj.AssemblyReference.cache
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.GeneratedMSBuildEditorConfig.editorconfig
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.AssemblyInfoInputs.cache
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.AssemblyInfo.cs
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.csproj.CoreCompileInputs.cache
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.dll
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\refint\TASK-58.dll
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.pdb
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\TASK-58.genruntimeconfig.cache
+D:\ST\хочу стать умней\TASK-58\TASK-58\obj\Debug\net7.0\ref\TASK-58.dll
